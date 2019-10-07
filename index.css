@@ -336,6 +336,27 @@ img {
   color: white;
 }
 
+.arrowHeader2 {
+  background-color: #eeae30;
+  border-radius: 12px;
+  padding-top: 3px;
+  padding-bottom: 1px;
+  padding-left: 12px;
+}
+.arrowHeader2 h6 {
+  color: white;
+}
+
+.arrowHeaderBlock {
+  width: 25%;
+}
+.arrowHeaderBlock h2 {
+  color: white;
+}
+.arrowHeaderBlock h1 {
+  color: white;
+}
+
 .arrowBlurb p {
   padding-left: 12px;
 }
